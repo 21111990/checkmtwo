@@ -1,0 +1,1 @@
+web: gunicorn checkmtwo.wsgi --log-file -
